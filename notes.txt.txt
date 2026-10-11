@@ -1,0 +1,2 @@
+Git staging is useful because of it take everything to local commits and
+freeze it permanently .
